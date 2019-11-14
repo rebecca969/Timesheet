@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timesheet", "Timesheet\Timesheet.csproj", "{813DE541-A648-4F69-9632-61E9E9BF0D1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogical", "BusinessLogical\BusinessLogical.csproj", "{6505C3F2-E9A0-4D1F-B28C-B74103E01529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{813DE541-A648-4F69-9632-61E9E9BF0D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{813DE541-A648-4F69-9632-61E9E9BF0D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{813DE541-A648-4F69-9632-61E9E9BF0D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{813DE541-A648-4F69-9632-61E9E9BF0D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6505C3F2-E9A0-4D1F-B28C-B74103E01529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6505C3F2-E9A0-4D1F-B28C-B74103E01529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6505C3F2-E9A0-4D1F-B28C-B74103E01529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6505C3F2-E9A0-4D1F-B28C-B74103E01529}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
